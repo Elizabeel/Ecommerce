@@ -1,7 +1,17 @@
 # Ecommerce
 
+## Finalidade e Motivação do Projeto
+Este projeto foi desenvolvido com o objetivo de realizar uma análise exploratória de dados (EDA) de um ecommerce, com a finalidade de gerar insights estratégicos para o negócio. A análise buscou responder perguntas-chave sobre o comportamento de compra, desempenho de produtos, perfil do público e canais de venda mais eficientes.
+
+A motivação principal foi compreender os padrões de vendas, satisfação dos clientes e preferências de consumo, possibilitando uma tomada de decisão mais assertiva por parte do time de marketing, produto e vendas.
+
+
 ## Objetivos
-Analisar os dados do Ecommerce a fim de responder ás perguntas abaixo:
+#Identificar os produtos e categorias mais vendidos nos últimos anos para otimizar o estoque e o portfólio.
+#Analisar os extremos de preço (mais caro e mais barato) para avaliar oportunidades de precificação.
+#Avaliar o NPS (Net Promoter Score) por categoria para entender a percepção do cliente sobre os produtos.
+#Traçar o perfil ideal de consumidor (gênero e faixa etária) e o canal de marketing mais eficiente, visando otimizar campanhas publicitárias.
+#Apoiar decisões estratégicas de marketing e vendas, com base em dados reais e visualizações claras.
 
 ## Quais os produtos mais vendidos considerando os últimos 3 anos?
 **De acordo com a análise feita o produto mais vendido é:**
