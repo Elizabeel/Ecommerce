@@ -8,9 +8,13 @@ A motivação principal foi compreender os padrões de vendas, satisfação dos 
 
 ## Objetivos
 1.Identificar os produtos e categorias mais vendidos nos últimos anos para otimizar o estoque e o portfólio.
+
 2.Analisar os extremos de preço (mais caro e mais barato) para avaliar oportunidades de precificação.
+
 3.Avaliar o NPS (Net Promoter Score) por categoria para entender a percepção do cliente sobre os produtos.
+
 4.Traçar o perfil ideal de consumidor (gênero e faixa etária) e o canal de marketing mais eficiente, visando otimizar campanhas publicitárias.
+
 5.Apoiar decisões estratégicas de marketing e vendas, com base em dados reais e visualizações claras.
 
 ## Quais os produtos mais vendidos considerando os últimos 3 anos?
