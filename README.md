@@ -1,7 +1,7 @@
 # Ecommerce
 
 ## Objetivos
-Analisar os dados a fim de responder ás perguntas abaixo:
+Analisar os dados do Ecommerce a fim de responder ás perguntas abaixo:
 
 ## Quais os produtos mais vendidos considerando os últimos 3 anos?
 **De acordo com a análise feita o produto mais vendido é:**
